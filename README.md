@@ -59,7 +59,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ## For Termux
-Sorry this repo is for heroku only
+Sorry this repo is heroku only
 
 ### ⚠ Warning ⚠
 
