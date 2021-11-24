@@ -3,7 +3,7 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=PEPE-SIR&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=pepesir&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
-<img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
+<img src="lyfe" alt="NinoBot" width="500" />
 
 # Bosco Bot
 
