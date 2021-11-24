@@ -22,9 +22,7 @@
 <p align="center">
   <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-pepe-purple.svg?style=for-the-badge&logo=github" /></a>
 
-<div align="center">
-<img src="hehe.jpg" alt="Pepe" width="170" />
-</div>
+
 
 
 <p align="center">
