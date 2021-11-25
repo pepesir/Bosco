@@ -540,7 +540,7 @@ const ftrol = {
 			for (let anjh of imagi){
 				if (budy === anjh){
 					result = fs.readFileSync(`./media/image/${anjh}.jpg`)
-					bosco.sendMessage(from, result, image, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 500, status: 200, thumbnail: fs.readFileSync('./ds.jpg'), surface: 200, message: `${fake}`, orderTitle: `MADE BY PEPE`, sellerJid: '0@s.whatsapp.net'}}}})
+					bosco.sendMessage(from, result, image, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 500, status: 200, thumbnail: fs.readFileSync('./ds.jpg'), surface: 200, message: `${fake}`, orderTitle: `MADE BY DENIS`, sellerJid: '0@s.whatsapp.net'}}}})
 					}
 			}
 			for (let anje of videonye){
@@ -2706,27 +2706,9 @@ case 'emoji':
 
 //------------------< Storage >-------------------
 
-             case 'addvid':
-					if (!isQuotedVideo) return reply('```Reply vidionya```')
-					nm = body.slice(8)
-					if (!nm) return reply('```Nama vidionya apa```')
-					boij = JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo
-					delb = await bosco.downloadMediaMessage(boij)
-					videonye.push(`${nm}`)
-					fs.writeFileSync(`./media/video/${nm}.mp4`, delb)
-					fs.writeFileSync('./database/video.json', JSON.stringify(videonye))
-					reply(`Successfully Adding video\nCheck with ${prefix}listvideo`)
-					break
-        case 'listvid':
-					teks = '*List Video :*\n\n'
-					for (let awokwkwk of videonye) {
-						teks += `- ${awokwkwk}\n`
-					}
-					teks += `\n*Total : ${videonye.length}* \n\n_Untuk mengambil sticker silahkan reply pesan ini dengan caption nama video_`
-					bosco.sendMessage(from, teks.trim(), extendedText, { quoted: mek, contextInfo: { "mentionedJid": video } })
-					break
-      case 'addvn':
+                   case 'addvn':
       case 'addbgm':
+                    if (!isOwner) return 
 					if (!isQuotedAudio) return reply('*Reply to Audio*')
 					nm = body.slice(7)
 					if (!nm) return reply('*What is The bgm name?*')
@@ -2743,7 +2725,7 @@ case 'emoji':
 					 wanu = vien.indexOf(nmm)
 					 vien.splice(wanu, 1)
 					 fs.unlinkSync(`./media/vn/${nmm}.mp3`)
-					bosco.sendMessage(from, `*Bgm Deleted*`, MessageType.text, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: 'status@broadcast' } : {})}, message: { orderMessage: { itemCount: 59, status: 200, thumbnail: fs.readFileSync('./ds.jpg'), surface: 200, message: '𝕻𝖊𝖕𝖊', orderTitle: '𝕾𝖊𝖗', sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}})
+					bosco.sendMessage(from, `*Bgm Deleted*`, MessageType.text, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: 'status@broadcast' } : {})}, message: { orderMessage: { itemCount: 59, status: 200, thumbnail: fs.readFileSync('./ds.jpg'), surface: 200, message: '𝒑𝒆𝒑𝒆', orderTitle: '𝒔𝒆𝒓', sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 508, isForwarded: true}})
 					} catch (err){
 						console.log(err)
 						reply(mess.error.api)
@@ -2756,10 +2738,11 @@ case 'emoji':
 					for (let awokwkwk of vien) {
 						teks += `- ${awokwkwk}\n`
 					}
-					teks += `\n*Tᴏᴛᴀʟ : ${vien.length}*\n\n_▢_`
-					bosco.sendMessage(from, teks.trim(), extendedText, { caption: 'teks', "contextInfo": { text: 'teks', sendEphemeral: true, "externalAdReply": { "title": `${' '}𝑷𝒆𝒑𝒆 𝑺𝒊𝒓${''}${''}`, "body": ``, "previewType": 'PHOTO', "thumbnailUrl": `${'https://i.ibb.co/vkkcm0L/034c588fd8d5.jpg'}`, "thumbnail": '', "sourceUrl": `${'https://wa.me/c/62852407507130'}`}},quoted: ftext})
+					teks += `\n*Tᴏᴛᴀʟ : ${vien.length}*\n\n_🍁_`
+					bosco.sendMessage(from, teks.trim(), extendedText, { caption: 'teks', "contextInfo": { text: 'teks', sendEphemeral: true, "externalAdReply": { "title": `${' '}𝒑𝒆𝒑𝒆 𝒔𝒆𝒓${''}${''}`, "body": ``, "previewType": 'PHOTO', "thumbnailUrl": `${'https://i.ibb.co/vkkcm0L/034c588fd8d5.jpg'}`, "thumbnail": '', "sourceUrl": `${'https://wa.me/c/919633687665'}`}},quoted: ftext})
 					break
 				case 'addimage':
+				    if (!isOwner) return
 					if (!isQuotedImage) return reply('*Reply image*')
 					nm = body.slice(10)
 					if (!nm) return reply('*Whats the name of the image?*')
@@ -2792,6 +2775,7 @@ case 'emoji':
 					bosco.sendMessage(from, teks.trim(), extendedText, { quoted: mek, contextInfo: { "mentionedJid": imagi } })
 					break
               case 'addsticker':
+                    if (!isOwner) return
 					if (!isQuotedSticker) return reply('*Reply To Sticker*')
 					nm = body.slice(12)
 					if (!nm) return reply('*Sticker Name?*')
