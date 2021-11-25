@@ -56,7 +56,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 
 ## For Termux
-Sorry this repo is heroku only
+Sorry this repo is for heroku only
 
 ### ⚠ Warning ⚠
 
