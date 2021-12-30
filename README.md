@@ -65,7 +65,7 @@ Sorry this repo is for heroku only
 ### ⚠ Warning ⚠
 
 ```
-By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+By using bc ,tobc or any other Commands, Your WhatsApp account may be banned.
 Pepe Sir or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
@@ -80,9 +80,10 @@ you can contact us
 ```
 
 # Thanks to
-* Denis ser
-* [`Kriz ser`](https://github.com/KANNANSIR)
-* [`Pepe sir`](https://github.com/pepesir)
+* 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
+* [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
+* [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
+* [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 
 
