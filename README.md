@@ -61,9 +61,13 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 ## `FOR TERMUX`
 
-Yeah , It's now available for termux
-First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/Denis.json">Denis.json</a> . Then follow these commands ✅
-NOTE : U HAVE CLONE FORKED REPO , NOT MINE
+* Yeah , It's now available for termux
+* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
+* NOTE : U HAVE CLONE FORKED REPO , NOT MINE
+
+
+
+
 
 ```
 termux-setup-storage
