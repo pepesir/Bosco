@@ -51,7 +51,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
 
-# Requirements
+### `REQUIREMENTS`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for sticker command)
@@ -59,8 +59,35 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 * Any text editor
 
 
-## For Termux
-Sorry this repo is for heroku only
+## `FOR TERMUX`
+
+Yeah , It's now available for termux
+First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/Denis.json">Denis.json</a> . Then follow these commands ✅
+NOTE : U HAVE CLONE FORKED REPO , NOT MINE
+
+```
+termux-setup-storage
+```
+```
+pkg install git
+```
+```
+pkg install bash
+```
+```
+git clone https://github.com/pepesir/Bosco.git 
+```
+```
+cd Bosco
+```
+```
+bash install.sh
+```
+```
+npm start
+```
+
+
 
 ### ⚠ Warning ⚠
 
@@ -84,6 +111,6 @@ you can contact us
 * [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
 * [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
 * [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/adiwajshing/Baileys)
 
 
