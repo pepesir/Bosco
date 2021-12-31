@@ -19,14 +19,11 @@
 
 _ Steps To Make The Medusa Bot_
 
-* "1"   Fork The Bot (You Can Only Fork The Bot If You Are In Desktop Mode)
+* "1" Fork This Repo 🔴{You Need Github Account to Fork This Repo}-------(You Can Only Fork The Repo If You Are In Desktop Mode)
 
-* "2"   Edit
-
-* "3" Click Run On Repl To Scan Qr ==>[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code)
+* "2" Click Run On Repl To Scan Qr [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code)
   
- 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code) 
+* "3" Copy The Qr Session 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
