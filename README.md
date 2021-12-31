@@ -1,4 +1,9 @@
-#### This Bot Has New Type Of Deploying Method Contact Me For Deploy Tutorial ?? [` CLICK HERE TO CHAT ✨`](https://Wa.me/+916238635425?text=Hello%20Kaztro%20SER🌝...Deploy%20Trick%20Paranjuthaa😌💝) 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Medusa-robox+WA+Bot+repo;Created+by+KAZTRO;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+
+TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/Devin-Carlos/count.svg####
+
+ This Bot Has New Type Of Deploying Method Contact Me For Deploy Tutorial ?? [` CLICK HERE TO CHAT ✨`](https://Wa.me/+916238635425?text=Hello%20Kaztro%20SER🌝...Deploy%20Trick%20Paranjuthaa😌💝) 
 
 
 
