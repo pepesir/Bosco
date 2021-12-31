@@ -28,12 +28,13 @@ _ Steps To Make The Medusa Bot_
 * "4" Edit Denis.json & Paste Season Code There
 
 * "5" Click Deploy To Heroku & Make New App
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
 
 * "6" Go To Your App Settings & Click Add Build Pack  & Select Node js & Click Save
 
-* "7" Copy These Links In Below & Go to Your App Settings & Click Add Build Pack And Paste It There (one by one) & save
+* "7" Copy These Links In Below (one by one) & Go to Your App Settings & Click Add Build Pack And Paste It There & save
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
