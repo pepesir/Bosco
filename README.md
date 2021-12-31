@@ -23,7 +23,7 @@ _ Steps To Make The Medusa Bot_
 
 * "2"   Edit
 
-* "3"
+* "3" Click Run On Repl To Scan Qr ==>[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code)
   
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code) 
