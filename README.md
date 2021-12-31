@@ -1,4 +1,4 @@
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
+#### This Bot Has New Type Of Deploying Method Contact Me For Deploy Tutorial ?? [` CLICK HERE TO CHAT ✨`](https://Wa.me/+916238635425?text=Hello%20Kaztro%20SER🌝...Deploy%20Trick%20Paranjuthaa😌💝) 
 
 
 
@@ -7,97 +7,60 @@
 
 
 <div align="center">
-<img src="life.jpg" alt="Pepe" width="170" />
+<img src="life.jpg" alt="Pepe" width="640" />
 
-# Bosco Bot
+# Medusa-robox
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Medusa-robox is a Full Featured Buttonised WhatsApp bot Made By Kaztro-SIR
 >
 >
 
-  ### Simple Method
+# ⚠️ Surely Read This 
+
+_ Steps To Make The Medusa Bot_
+
+* "1" Fork This Repo 🔴{You Need Github Account to Fork This Repo}-------(You Can Only Fork The Repo If You Are In Desktop Mode)
+
+* "2" Click Run On Repl To Scan Qr [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code)
   
- 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
+* "3" Copy The Qr Session Code received from your Number
+
+* "4" Edit Denis.json & Paste Session Code There
+
+* "5" Click Deploy To Heroku & Make New App
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
-<p align="center">
-<a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
-</p>
 
+* "6" Go To Your App Settings & Click Add Build Pack  & Select Node js & Click Save
 
-<p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
-</p>
-</div>
-
-
----
-
-
-## `ADD BUILDPACK`
-
-```
-Heroku/nodejs
-```
+* "7" Copy These Links In Below (one by one) & Go to Your App Settings & Click Add Build Pack And Paste It There & save
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 ```
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
+* "8" Switch To Desktop Mode & Click Deploy & Click Github Icon & Connect To Github
 
-### `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for sticker command)
-* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
-* Any text editor
+* "9" After Connected To Github Search Medusa on Repo Name Search Bar & Select Medusa-robox & Connect
 
+* "10" Click Deploy Branch To Deploy
 
-## `FOR TERMUX`
+* "11" After Deployed Successfully  Click Resources & Turn on Worker
 
-* Yeah , It's now available for termux
-* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
-* NOTE : U HAVE CLONE YOUR FORKED REPO , NOT MINE REPO
+# Enjoy The Medusa Bot 💕💕
 
+ <a href="https://github.com/Devin-Carlos"><img title="Author" src="https://img.shields.io/badge/Author-Kaztro-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+916238635425?text=Hello%20Kaztro%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Kaztro-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+<p align="center">
 
-
-
-
-```
-termux-setup-storage
-```
-```
-pkg install git
-```
-```
-pkg install bash
-```
-```
-git clone https://github.com/pepesir/Bosco.git 
-```
-```
-cd Bosco
-```
-```
-bash install.sh
-```
-```
-npm start
-```
-
-
+ 
 
 ### ⚠ Warning ⚠
 
 ```
 By using bc ,tobc or any other Commands, Your WhatsApp account may be banned.
-Pepe Sir or we are not responsible for your account, 
+Medusa-robox or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -111,10 +74,7 @@ you can contact us
 ```
 
 # Thanks to
-* 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
-* [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
-* [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
-* [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
-* [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/adiwajshing/Baileys)
+* [`KAZTRO SER`](https://github.com/Devin-Carlos)
+
 
 
