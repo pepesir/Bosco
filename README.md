@@ -11,7 +11,7 @@
 
 # Medusa-robox
 
-> Medusa-robox is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Medusa-robox is a Full Featured Buttonised WhatsApp bot Made By Kaztro-SIR
 >
 >
 
