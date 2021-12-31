@@ -43,34 +43,17 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
 * "8" Switch To Desktop Mode & Click Deploy & Click Github Icon & Connect To Github
 
-* "9" After Connected To Github Search Medusa on Repo Name Search Bar & Select Medusa-robox
+* "9" After Connected To Github Search Medusa on Repo Name Search Bar & Select Medusa-robox & Connect
 
-* "10"
+* "10" Click Deploy Branch To Deploy
+
+* "11" After Deployed Successfully  Click Resources & Turn on Worker
+#Enjoy The Medusa Bot 💕💕
+
  <a href="https://github.com/Devin-Carlos"><img title="Author" src="https://img.shields.io/badge/Author-Kaztro-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+916238635425?text=Hello%20Kaztro%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Kaztro-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 
  
-
-## `ADD BUILDPACK`
-
-```
-Heroku/nodejs
-```
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-```
-```
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-```
-
-### `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for sticker command)
-* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
-* Any text editor
-
-
 
 ### ⚠ Warning ⚠
 
