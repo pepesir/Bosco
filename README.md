@@ -18,7 +18,7 @@
   ### Simple Method
   
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/PEPE-SIR-Qr-code-1#index.js) 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code) 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
