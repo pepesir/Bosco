@@ -27,19 +27,15 @@ _ Steps To Make The Medusa Bot_
 
 * "4" Edit Denis.json & Paste Season Code There
 
-* "5" Deploy To Heroku Click Here --> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
+* "5" Click Deploy To Heroku & Make New App [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
+
  <a href="https://github.com/Devin-Carlos"><img title="Author" src="https://img.shields.io/badge/Author-Kaztro-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+916238635425?text=Hello%20Kaztro%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Kaztro-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp"
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
-<p align="center">
- <a href="https://github.com/Devin-Carlos"><img title="Author" src="https://img.shields.io/badge/Author-Kaztro-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+916238635425?text=Hello%20Kaztro%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Kaztro-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
-<p align="center">
-<a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp"
-</p>
+* "6" 
 
 
 ## `ADD BUILDPACK`
