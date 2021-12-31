@@ -15,7 +15,15 @@
 >
 >
 
-  ### Simple Method
+# ⚠️ Surely Read This 
+
+_ Steps To Make The Medusa Bot_
+
+* "1"   Fork The Bot (You Can Only Fork The Bot If You Are In Desktop Mode)
+
+* "2"   Edit
+
+* "3"
   
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devin-Carlos/Medusa-Qr-Code) 
