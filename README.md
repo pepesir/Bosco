@@ -1,4 +1,4 @@
-#### This Bot Has New Type Of Deploying Method Contact Me For Deploy Tutorial ?? [` CLICK HERE TO CHAT ✨`](https://wa.me/6238635425) 
+#### This Bot Has New Type Of Deploying Method Contact Me For Deploy Tutorial ?? [` CLICK HERE TO CHAT ✨`](https://Wa.me/+916238635425?text=Hello%20Kaztro%20SER🌝...Deploy%20Trick%20Paranjuthaa😌💝) 
 
 
 
