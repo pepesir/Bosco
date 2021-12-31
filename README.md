@@ -48,7 +48,8 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 * "10" Click Deploy Branch To Deploy
 
 * "11" After Deployed Successfully  Click Resources & Turn on Worker
-#Enjoy The Medusa Bot 💕💕
+
+# Enjoy The Medusa Bot 💕💕
 
  <a href="https://github.com/Devin-Carlos"><img title="Author" src="https://img.shields.io/badge/Author-Kaztro-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+916238635425?text=Hello%20Kaztro%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Kaztro-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
