@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="life.jpg" alt="Pepe" width="170" />
+<img src="life.jpg" alt="Pepe" width="640" />
 
 # Medusa-robox
 
