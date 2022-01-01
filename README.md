@@ -46,7 +46,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
-* "8" Switch To Desktop Mode & Click Deploy & Click Github Icon & Connect To Github
+* "8" Switch To Desktop Mode & Click Deploy Then Click Github Icon &  Connect To Github
 
 * "9" After Connected To Github Search Medusa on Repo Name Search Bar & Select Medusa-robox & Connect
 
