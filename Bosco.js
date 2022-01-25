@@ -1543,6 +1543,30 @@ break
 }
 })
              break 
+   case 'youtube':
+      case 'ytmp3':
+      case 'yt':
+      case 'video':
+             if (args.length < 1) return reply('*Where is the link?*')
+             if(!isUrl(args[0]) && !args[0].includes('youtu')) return reply(mess.error.Iv)
+             teks = args.join(' ')
+             res = await y2mateA(teks).catch(e => {
+             reply('*Error Failed To Enter Y2mate Web*')
+})
+             result = `
+*Tɪᴛʟᴇ :* ${res[0].judul}
+*Tʏᴘᴇ :* mp3/mp4
+*Sɪᴢᴇ :* ${res[0].size}`
+              buttons = [{buttonId: `${prefix}buttons2 ${q}`,buttonText:{displayText: 'ᴠɪᴅᴇᴏ'},type:1},{buttonId:`${prefix}buttons1 ${q}`,buttonText:{displayText:'ᴀᴜᴅɪᴏ'},type:1}]
+              fs.writeFileSync(`./ytmp.jpeg`, await getBuffer(res[0].thumb))
+              yt1 = await bosco.prepareMessage(from, fs.readFileSync(`./ytmp.jpeg`), location, {thumbnail: fs.readFileSync(`./ytmp.jpeg`),})
+              yt2 = yt1.message["ephemeralMessage"] ? yt1.message.ephemeralMessage : yt1
+              buttonsMessage = {footerText:`${result}`,
+              contentText:` `,buttons,headerType:6, locationMessage: yt2.message.locationMessage}
+              prep = await bosco.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftroli})
+              bosco.relayWAMessage(prep)
+              fs.unlinkSync(`./ytmp.jpeg`)
+              break
       case 'rall':
 				const readallid = await bosco.chats.all()
 			bosco.setMaxListeners(25)
