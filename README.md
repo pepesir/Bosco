@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple method">Installation</a> •
+  <a href="https://github.com/pepesir/Bosco#simple-method">Installation</a> •
   <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
 </p>
 </div>
@@ -51,21 +51,11 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
 
-### `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for sticker command)
-* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
-* Any text editor
-
-
 ## `FOR TERMUX`
 
 * Yeah , It's now available for termux
 * First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
 * NOTE : U HAVE TO CLONE YOUR FORKED REPO , NOT MINE REPO !!
-
-
 
 
 
@@ -91,6 +81,12 @@ bash install.sh
 npm start
 ```
 
+### `REQUIREMENTS`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for sticker command)
+* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
+* Any text editor
 
 
 ### `⚠ WARNING ⚠`
