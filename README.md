@@ -37,7 +37,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/Bosco/)
 
-## `ADD BUILDPACK`
+### `ADD BUILDPACK`
 
 ```
 Heroku/nodejs
@@ -49,7 +49,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
 
-## `FOR TERMUX`
+### `FOR TERMUX`
 
 * Yeah , It's now available for termux
 * First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
@@ -104,7 +104,7 @@ If you need help
 you can contact us 
 ```
 
-# `THANKS TO`
+### `THANKS TO`
 * 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
 * [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
 * [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
