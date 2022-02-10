@@ -71,7 +71,7 @@ const { isAfk, cekafk, addafk } = require('./lib/offline')
 const a = '▢'
 
 hit_today = []
-banChats = true
+banChats = false
 offline = false
 
 let fakeimage = fs.readFileSync("./media/wpmobile.jpg")
